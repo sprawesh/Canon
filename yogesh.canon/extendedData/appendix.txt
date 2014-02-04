@@ -1,0 +1,21 @@
+Temporal Analysis
+
+Body type? Photo detector dummy ?
+digital zoom need to be addressed.
+Increasing trend for max_res1 and max_res2
+More number of other resoulation with time, but with jump like function.
+Earlier Image Ratio 4:03 then 3:02 or 16:09. Newer cameras have 2 or more image-ratio options.
+Increasing trend for effective pixels.
+Sensor photo detector is NA for many new models, but exhibits increasing trend
+Sensor size follows random pattern, sensor type no useful information.
+Newer cameras have Digic4 processor.
+ISO_old with differing range. However, ISO_new exhibits increasing trend.
+white balance presets may be useful to determine generations and frequency has increased over time.
+Digital zoom is mostly 4x, 
+Artculated LCD appears in later period.
+optical zoom increases for the subsequent model.
+decreasing trend for weight and size.
+storage type and processor can be valuable.
+
+
+
