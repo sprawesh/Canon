@@ -57,6 +57,7 @@ public static void main(String[] args) {
 	AttributePlots arp= new AttributePlots();
 	//arp.extraProperties("C:\\academic\\umd\\yogesh\\2-data\\attribute-plots\\", "canon");
 	System.out.println("done");
+	System.out.println("git change");
 	}
 
 }
